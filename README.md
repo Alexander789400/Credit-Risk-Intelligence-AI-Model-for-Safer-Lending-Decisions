@@ -6,3 +6,5 @@ A comprehensive machine learning project focused on predicting customer credit r
 Used Exploratory Data Analysis techniques, Logistic Regression and Gaussian Naive Bayes.
 
 This dataset classifies people described by a set of attributes as good or bad credit risks.
+
+To Predict if customers are risky or not for credit
